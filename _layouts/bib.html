@@ -3,7 +3,7 @@
 <!-- _layouts/bib.html -->
       <div class="row">
         {%- if site.enable_publication_thumbnails -%}
-        <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
+        <div class="col-sm-3 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
@@ -30,7 +30,7 @@
         {%- endif -%}
 
         <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+        <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-7{% else %}col-sm-10{% endif %}">
         <!-- Title -->
         <div class="title">{{entry.title}}</div>
         <!-- Author -->
@@ -136,6 +136,27 @@
           {{ entry.note | strip }}
         </div>
 
+        <!-- Non-functional -->
+        <div class="row">
+          {%- if entry.what %}
+            {%- if entry.what == "Paper" %}       
+            &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-primary p-2 text-left" disabled>{{entry.what}}</button>
+            {%- endif %}
+            {%- if entry.what == "Extended Abstract" %}
+            &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-light p-2" disabled>{{entry.what}}</button>
+            {%- endif %}
+            {%- if entry.what == "Article" %}
+            &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-danger p-2" disabled>{{entry.what}}</button>
+            {%- endif %}
+            {%- if entry.what == "Workshop" %}
+            &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-success p-2" disabled>{{entry.what}}</button>
+            {%- endif %}
+          {%- endif %}
+          {%- if entry.award %}
+            <button type="button" class="btn btn-sm z-depth-0 btn-warning p-2" disabled>{{entry.award}}</button>
+          {%- endif %}
+        </div>
+
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
@@ -186,6 +207,9 @@
           {%- endif %}
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+          {%- endif %}
+          {%- if entry.talk %}
+            <a href="{{ entry.talk }}" class="btn btn-sm z-depth-0" role="button">Talk</a>
           {%- endif %}
           </div>
           {% if site.enable_publication_badges %}
