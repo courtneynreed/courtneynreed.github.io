@@ -9,7 +9,7 @@ display_categories: [research, performance]
 horizontal: false
 ---
 
-Coming Soon
+To be added soon~
 
 <!-- pages/projects.md -->
 <div class="projects">
