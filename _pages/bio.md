@@ -17,10 +17,9 @@ My research is in Human Computer Interaction (HCI), with my most keen interests 
 
 Three questions that really motivate me currently:
 
- 1. How does digital technology augment and change
-    action/interactions and impact existing human relationships? 
- 2. How can/*should* we designate and identify technology’s role in interaction? 
- 3. How can we understand the dynamic roles of technology and people in the messiness of the world and our subjective experience?
+ 1. How does digital technology, espectially work with AI, augment and/or change action/interactions and existing human relationships?
+ 2. How can/how *should* we designate and identify technology’s role in different scenarios, depending on the needs of stakeholders and applications?
+ 3. How can we understand these dynamic roles of technology and people in the messiness of the world and our subjective experience?
 
 I am especially interested in music technology and working with singers; I have incorporated much of my work into my own vocal practice. For me, the key aspects of interaction with technology are individual and come from our own unique backgrounds – with Feminist HCI at the core of my research, I aim to design and explore the relationships we have with technology while honoring subjective experience, the weirdness of bodies, and the messiness of learning and self-expression.
 

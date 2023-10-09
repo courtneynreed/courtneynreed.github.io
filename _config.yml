@@ -153,9 +153,9 @@ disqus_shortname: creed # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -322,6 +322,11 @@ external_links:
   target: _blank
   exclude:
 
+nav_external_links:
+  title: CV
+  url: https://docs.google.com/document/d/1zmnmAj1ok-t0i4b_8pbCEB78QDXGkr-yNywraocT8vM/edit?usp=sharing
+  hide_icon: false # set to true to hide the external link icon - defaults to false
+  opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
