@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: Lecturer in Digital Technologies at <a href='https://www.lborolondon.ac.uk/'>Loughborough University London</a>.
 
@@ -14,7 +14,7 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -23,9 +23,10 @@ Hello, I'm Courtney~
 
 I am a researcher, educator, and musician.
 
-My research focuses on the roles and dynamic relationships between people, technology and the world around us. My goal is to uncover how we experience and understand interaction with our bodies and how this can inform design.
+My research focuses on the roles and dynamic relationships between people, technology and the world around us. My goal is to uncover how we experience and understand interaction with our senses and bodies and how this can inform design.
 
 As a musician, I am especially interested in the role technology has in human creativity. My work has centred around the interaction and relationship vocalists have with their voices --- both body and instrument --- and how technology mediates, informs, and even disrupts this connection.
+
 
 <!-- Examples of this work in topics including human-centred design, biosignal feedback, autoethnography, and experience querying with micro-phenomenology. -->
 
