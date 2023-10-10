@@ -151,6 +151,12 @@
             {%- if entry.what == "Workshop" %}
             &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-success p-2" disabled>{{entry.what}}</button>
             {%- endif %}
+            {%- if entry.what == "MSc Thesis" %}
+            &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-info p-2" disabled>{{entry.what}}</button>
+            {%- endif %}
+            {%- if entry.what == "PhD Thesis" %}
+            &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-info p-2" disabled>{{entry.what}}</button>
+            {%- endif %}
           {%- endif %}
           {%- if entry.award %}
             <button type="button" class="btn btn-sm z-depth-0 btn-warning p-2" disabled>{{entry.award}}</button>
