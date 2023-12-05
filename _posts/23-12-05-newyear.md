@@ -2,7 +2,7 @@
 layout: post
 title: New Blog, New Job, New Year ⚡️
 date: 2023-12-05 10:14:00-0400
-description: Every blog needs a first post: in this one I reflect on 2023 and things to come.
+description: Every blog needs a first post - in this one I reflect on 2023 and things to come.
 tags: news conferences papers
 categories: general-updates
 giscus_comments: false
