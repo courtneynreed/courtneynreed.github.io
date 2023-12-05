@@ -262,8 +262,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['conference', 'articles', 'lboro'] # these tags will be displayed on the front page of your blog
-display_categories: ['papers', 'resources', 'events'] # these categories will be displayed on the front page of your blog
+display_tags: ['conferences', 'papers', 'news'] # these tags will be displayed on the front page of your blog
+display_categories: ['lboro', 'resources', 'events'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
