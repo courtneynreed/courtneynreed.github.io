@@ -56,7 +56,7 @@ A summary of some amazing work I got to collaborate on and publish this year.
 - Participated in the *Body X Materials Workshop*, discussing working with the <a href ="https://www.courtneynreed.com/assets/pdf/Reed_CHI23_BodyLutherie.pdf">physiological materiality in my position paper about Body Lutherie.</a>
 - Presented a paper, also from my PhD work, on <a href ="https://www.courtneynreed.com/assets/pdf/Reed_CHI23_VocalMetaphor.pdf">using metaphors from vocal pedagogy to reach mutual understanding about subjective experiences in design/HCI.</a>
 - My colleagues Nihar and Paul from the MPI presented two papers about senSInt's work on <a href ="https://www.courtneynreed.com/assets/pdf/Sabnis_CHI23_TactileSymbols.pdf">designing tactile symbols</a> and <a href ="https://www.courtneynreed.com/assets/pdf/Sabnis_CHI23_HapticServos.pdf">Haptic Servos, our platform for rendering vibrotactile feedback.</a>
-- Our paper *Haptic Servos: Self-Contained Vibrotactile Rendering System for Creating or Augmenting Material Experiences* received an **Honorable Mention for Best Paper!**
+- Our paper *Haptic Servos: Self-Contained Vibrotactile Rendering System for Creating or Augmenting Material Experiences* received an **Honorable Mention for Best Paper!** 🏆
 
 **<a href="https://www.nime2023.org/">New Interfaces for Musical Expression (NIME), Mexico City, MX</a>**
 - Remotely a workshop with my colleagues Andrew and Eevee Zayas-Garin on methodologies for <a href ="https://www.courtneynreed.com/assets/pdf/Reed_NIME23_QueryingExperience.pdf">querying subjective experiences in musical interaction.</a>
@@ -73,7 +73,7 @@ An article I co-authored in 2021 was featured in the December installment of *Co
 ## What Next!?
 I'm looking forward to a bunch of stuff for 2024, namely:
 - Being co-paper chair for the 2024 NIME Conference in Utrecht, NL with Dr. Astrid Bin 
-- Working on a collaborative projects module with sutdents at LUL
+- Working on a collaborative projects module with students at LUL
 - TEI 2024 in Cork, IE, where I will present a full paper, a work-in-progress paper, and an arts track submission that have all been accepted (!) - stay tuned for more on that, I am so excited! 🍀
 - Hopefully being able to do my first bit of PhD supervision at LUL 🤞🏻
 
