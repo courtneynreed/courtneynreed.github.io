@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Blog, New Job, New Year ⚡️
+title: new blog, new job, new year ⚡️
 date: 2023-12-05 10:14:00-0400
 description: Every blog needs a first post - in this one I reflect on 2023 and things to come.
 tags: news conferences papers
@@ -14,17 +14,17 @@ toc:
 ---
 Every blog needs to start somewhere! While I'm here, I will use this opportunity to reflect back on 2023 and some of the great research and teaching opportunities I had this year.
 
-## PhD Defense
+## phd defense
 
 I defended my PhD in January of this year! It was awesome and I had a great time discussing my work with my examiners, Prof. Alexander Jensenius from University of Oslo and Dr. George Fazekas from QMUL. <a href="https://www.courtneynreed.com/assets/pdf/Reed_PhD_ImaginingSensing.pdf">My PhD thesis can be found here.</a> 🎓 
 
-## New Job(s)
+## new job(s)
 
-### Postdoc @ KCL 🫀
+### postdoc @ KCL 🫀
 
 I started the year in January with a new postdoc, moving from the Max Planck Institute for Informatics in Saarbrücken to the School of Biomedical Engineering & Imaging Sciences at King's College London. I worked as part of the research team on the <a href="https://cosmos.isd.kcl.ac.uk/?page_id=2">COSMOS (Computational Shaping and Modeling of Musical Structures) ERC Advanced Grant</a>, led by Prof. Elaine Chew. I worked as a Postdoctoral Research Associate in Design Analytics and Music Physiology, focusing on human perception of musical stimuli.
 
-### Lecturer @ LUL 👩🏼‍💻
+### lecturer @ LUL 👩🏼‍💻
 
 Recently, in November, I left KCL and joined the <a href="https://www.lborolondon.ac.uk/institutes/digital-technologies/">Institute for Digital Techhnologies at Loughborough University London</a> as a Lecturer. I am enjoying this new position so much already, particularly working with my students in the course I'm teaching - Digital Application Design - and introducing them to computer programming in Python. I'm looking forward to supervising projects and getting set up with my own grants and research work in the new year.
 
@@ -37,12 +37,12 @@ toc:
 ```
 to the front matter of the post. The table of contents will be automatically generated from the headings in the post. If you wish to display the sidebar to the right, simply change `left` to `right`. -->
 
-## Research
+## research
 
 A summary of some amazing work I got to collaborate on and publish this year.
 <a href = "https://www.courtneynreed.com/papers/">All of these papers can be found here or are linked in-line:</a>
 
-### Conferences
+### conferences
 
 **<a href="https://tei.acm.org/2023/">ACM Conference on Tangible, Embedded, and Embodied Interaction (TEI), Warsaw, PL</a>**
 - Ran a workshop on <a href ="https://www.courtneynreed.com/assets/pdf/Haynes_TEI23_BeingMeaningful.pdf">designing for meaningful interaction</a> with the incomparable Dr. Alice Haynes, Dr. Sophie Skach, and Charlotte Nordmoen.
@@ -64,13 +64,13 @@ A summary of some amazing work I got to collaborate on and publish this year.
 **<a href="https://cinc2023.org/">Computing in Cardiology (CinC), Atlanta, GA, USA</a>**
 - My colleague Dr. Mateusz Soliński presented two papers about methodological findings from the work of the COSMOS team on analysing music listeners' and performers' <a href ="https://www.courtneynreed.com/assets/pdf/Solinski_CinC23_TriangleSimplex.pdf">heart rate variability using triangle simplex plots</a> and <a href ="https://www.courtneynreed.com/assets/pdf/Solinski_CinC23_TRDanalysis.pdf">pairwise cardiac responses with Time Delay Stability (TDS) analysis.</a>
 
-### Springer Volume: *Creating Digitally*
+### Springer volume: *Creating Digitally*
 I published my first book chapter, one I worked on with Prof. Nick Bryan-Kinns, in *Creating Digitally. Shifting Boundaries: Arts and Technologies—Contemporary Applications and Concepts*, part of the Springer Intelligent Systems Reference Library (Vol. 241). <a href ="https://www.courtneynreed.com/assets/pdf/BryanKinns_CreatingDigitally.pdf">We discuss a framework and guide to evaluating experiences with Media and Arts Techhnology.</a>
 
-### IEEE Featured Article
+### IEEE featured article
 An article I co-authored in 2021 was featured in the December installment of *Computer*’s **Spotlight on Transactions** series, highlighting the work published in IEEE Computer Society journals. The article discusses our work, <a href="https://www.courtneynreed.com/assets/pdf/Yang_TAFFC_emotionperception.pdf">originally published in IEEE Transactions on Affective Computing</a>, in <a href="https://www.courtneynreed.com/assets/pdf/Yang_Computer_Hear.pdf">individual listener agreement of subjective expression and features in music for music emotion recognition.</a>
 
-## What Next!?
+## what next!?
 I'm looking forward to a bunch of stuff for 2024, namely:
 - Being co-paper chair for the 2024 NIME Conference in Utrecht, NL with Dr. Astrid Bin 
 - Working on a collaborative projects module with students at LUL
