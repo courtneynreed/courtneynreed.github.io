@@ -62,7 +62,7 @@ I have had the privilege of working with many incredible research labs in my car
 ## also...
 If I'm not working on music tech, I am probably goofing around and performing with it. <br>
 My solo project is called **agouti**, I compose with vocal textures and occasionally perform in London (hoping to do more soon!). <br>
-I also perform with an electronic improv group called **Hyphae**, formed at the MPI, we perform regularly in Saarbrücken and are branching out to other cities in the EU. <br>
+I also perform with my electronic improv group [Hyphae](https://www.yfyfyf.xyz/index.html), formed at the MPI, we perform regularly in Saarbrücken and are branching out to other cities in the EU. <br>
 I also sing regularly with the London Philharmonic Choir. 🎶
 
 I love animals and have many pets, including a large group of fancy rats and two cats. 🐭🐱<br>
