@@ -2,6 +2,39 @@
 layout: default
 ---
 
+<html>
+ <head>
+    <style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns */
+/*    .column {
+    float: left;
+    }*/
+
+    /* Set width length for the left, right and middle columns */
+    .left {
+    width: 65%;
+    }
+
+    .middle {
+      width: 5%;
+    }
+    
+    .right {
+    width: 35%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+
+    </style>
+ </head>
+
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
@@ -45,14 +78,32 @@ layout: default
           <div style="text-align: center;">
             <img src="/assets/img/divider.png" width="250">
           </div>
-          <br>
-          <br>
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
-            {%- include news.html limit=true %}
-          {%- endif %}
+            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">latest news</a></h2>
+          <div class="row">
+              <div class="column left">
+                {%- include news.html limit=true %}
+                {%- endif %}
+              </div>
+            <div class="column right">
+            <div class="jekyll-twitter-plugin" align="right"> 
+              <div class="jekyll-twitter-plugin"> 
+                <a class="twitter-timeline" data-width="300" data-height="350" href="https://twitter.com/courtneynreed1" target="_blank" rel="noopener noreferrer">Tweets by courtneynreed1</a> 
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+                </script> 
+              </div> 
+            </div>
+          </div>
+        </div>  
+
+          <!-- <div class ="column center"></div> -->
+
+          <br>
+          <div style="text-align: center;">
+            <img src="/assets/img/divider.png" width="250">
+          </div>
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
