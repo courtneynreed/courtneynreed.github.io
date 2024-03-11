@@ -25,7 +25,11 @@ I am a researcher, educator, and musician.
 
 My research focuses on the roles and dynamic relationships between people, technology and the world around us. My goal is to uncover how we experience and understand interaction with our senses and bodies and how this can inform design.
 
-As a musician, I am especially interested in the role technology has in human creativity. My work has centred around the interaction and relationship vocalists have with their voices --- both body and instrument --- and how technology mediates, informs, and even disrupts this connection.
+As a musician, I am especially interested in the role technology has in human creativity. 
+
+As a singer, I use my experience of own voice and performance to motivate my research. 
+
+My work has centred around the interaction and relationship vocalists have with their voices --- both body and instrument --- and how technology mediates, informs, and even disrupts this connection.
 
 
 <!-- Examples of this work in topics including human-centred design, biosignal feedback, autoethnography, and experience querying with micro-phenomenology. -->
