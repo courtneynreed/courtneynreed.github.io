@@ -139,7 +139,7 @@
         <!-- Non-functional -->
         <div class="row">
           {%- if entry.what %}
-            {%- if entry.what == "Paper" %}       
+            {%- if entry.what == "Proceedings" %}       
             &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-primary p-2 text-left" disabled>{{entry.what}}</button>
             {%- endif %}
             {%- if entry.what == "Extended Abstract" %}
@@ -184,7 +184,7 @@
             {% if entry.pdf contains '://' -%}
             <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
             {%- else -%}
-            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" target="_blank" class="btn btn-sm z-depth-0" role="button">PDF</a>
             {%- endif %}
           {%- endif %}
           {%- if entry.supp %}

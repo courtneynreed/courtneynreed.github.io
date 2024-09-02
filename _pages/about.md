@@ -27,7 +27,7 @@ My research focuses on the roles and dynamic relationships between people, techn
 
 As a musician, I am especially interested in the role technology has in human creativity. 
 
-As a singer, I use my experience of own voice and performance to motivate my research. 
+As a singer, I use my experience of my own voice and performance to motivate my research. 
 
 My work has centred around the interaction and relationship vocalists have with their voices --- both body and instrument --- and how technology mediates, informs, and even disrupts this connection.
 

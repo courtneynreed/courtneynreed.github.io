@@ -5,11 +5,11 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 2
-display_categories: [research, performance]
+display_categories: [research, designs]
 horizontal: false
 ---
 
-To be added soon~
+<!-- To be added soon~ -->
 
 <!-- pages/projects.md -->
 <div class="projects">
