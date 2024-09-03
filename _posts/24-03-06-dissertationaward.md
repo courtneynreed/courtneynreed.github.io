@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🏆 acm sigchi outstanding dissertation award 
+title: acm sigchi outstanding dissertation award 🏆 
 date: 2024-03-06 09:50:00-0400
 description: My PhD thesis has been awarded the ACM SIGCHI Outstanding Dissertation Award for 2024!
 tags: news
