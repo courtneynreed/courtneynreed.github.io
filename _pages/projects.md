@@ -2,14 +2,12 @@
 layout: page
 title: projects
 permalink: /projects/
-description:
+description: Selected projects and collaborations, designs, and repositories. 
 nav: true
 nav_order: 2
 display_categories: [research, designs]
 horizontal: false
 ---
-
-<!-- To be added soon~ -->
 
 <!-- pages/projects.md -->
 <div class="projects">
