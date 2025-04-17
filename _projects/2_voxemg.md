@@ -17,7 +17,7 @@ related_publications: Reed_NIME20_VocalsEMG, Reed_TEI21_sEMGPerformance, Reed_AH
 {% endif %}
 
 <br>
-[The VoxEMG is fully open source and all schematics, CAD files, and instruction for implementation can be found on Github.](https://github.com/courtcourtaney/voxEMG)
+The VoxEMG is fully open source and [all schematics, CAD files, and instruction for implementation can be found on Github.](https://github.com/courtcourtaney/voxEMG)
 
 
 <div class="row">

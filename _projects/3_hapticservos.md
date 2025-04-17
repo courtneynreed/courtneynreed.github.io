@@ -1,11 +1,11 @@
 ---
 layout: page
-title: haptic servos
-description: haptic servos and symbols
-img: assets/img/proj_preview/imagining.jpg
+title: haptic servos & symbols
+description: self-contained vibrotactile rendering system for creating material experiences
+img: assets/img/proj_preview/hapticservo.jpg
 importance: 1
 category: designs
-related_publications: 
+related_publications: Reed_TEI22_Vibrotouch, Sabnis_CHI23_HapticServos, Sabnis_CHI23_TactileSymbols
 ---
 
 {% if site.data.repository-hapticservo.github_repos %}
@@ -15,76 +15,38 @@ related_publications:
   {% endfor %}
 </div>
 {% endif %}
+
 <br>
+Haptic Servos are fully open source and [all code, examples, and information on getting setup with Teensyduino (based on Arduino IDE) and PlatformIO can be found on Github.](https://github.com/sensint/Servo_Haptics)
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+There is also a compatible [Haptic Material Designer](https://github.com/sensint/Haptic_Material_Designer) created by Gabriela Vega, Nihar Sabnis, Dennis Wittchen, and Paul Strohmeier. The Designer uses a desktop-based GUI for creating material experiences with Haptic Servos. <br><br>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<div class="row">
+    <div class="col-sm mt-4 mt-md-0">
+        {% include figure.html path="assets/img/proj-hapticservos/servo.png" title="" class="img-fluid rounded" %}
+        {% include figure.html path="assets/img/proj-hapticservos/b-tuis.png" title="" class="img-fluid rounded" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.html path="assets/img/proj-hapticservos/a-tuis.png" title="" class="img-fluid rounded" %}
+    </div>
+</div>
+<div class="caption">
+    PCB versions of the VoxEMG. The v3.1 eTextile Configuration (left) features castellated inputs for conductive thread input and loops for textile integration. The v3.1.2 Bela Mini Capelet (middle, right) slots directly into the A0 and A1 analogue inputs, power, and ground from the Bela Mini.
+</div>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## about
+
+Haptic Servos were designed by the [Sensorimotor Interaction Group (senSInt)](https://sensint.mpi-inf.mpg.de/) at the [Max Planck Institute for Informatics (MPI-INF)](https://www.mpi-inf.mpg.de/home). The main contributors are Paul Strohmeier, Nihar Sabnis, Dennis Wittchen, Valentin Martinez-Missir, and myself. The designs encapsulate all timing-sensitive elements and hardware setup to create a rich variety of material experiences. Research work, primarily undertaken by Nihar in his PhD research, explores how Haptic Servos can be used to render continuous and dynamic, motion-coupled material experiences in tangible user interfaces.<br>
+
+Haptic Servos enable rapid rendering of diverse material experiences in a plug-and-play sensor-actuator path. The open source Haptic Servo shield is compatible with the Arduino IDE/[Teensyduino](https://www.pjrc.com/teensy/teensyduino.html) and [PlatformIO](https://platformio.org/). The firmware has been tested for both the Teensy 3.5 and Teensy 4.1 microcontrollers.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj-hapticservos/workflow.png" title="" class="img-fluid rounded" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    The Haptic Servo signal flow diagram between analogue sensor, control device/microcontroller, and actuator.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+## related publications:
