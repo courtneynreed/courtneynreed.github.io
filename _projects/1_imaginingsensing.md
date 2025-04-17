@@ -7,7 +7,7 @@ importance: 1
 category: research
 toc:
   sidebar: left
-related_publications: Reed_NIME20_VocalsEMG, Reed_TEI21_sEMGPerformance, Reed_TEI22_EmbodiedSingingDC, Reed_AHs22_SingingKnit, Reed_CHI22_SensorySketching, Reed_CHI22_CommunicatingBodies, Reed_NIME22_Microphenomenology, Reed_PhD_ImaginingSensing, Reed_TEI23_BodyAsSound, Reed_CHI23_BodyLutherie, Reed_CHI23_VocalMetaphor
+related_publications: Reed_NIME20_VocalsEMG, Reed_TEI21_sEMGPerformance, Reed_TEI22_EmbodiedSingingDC, Reed_AHs22_SingingKnit, Reed_CHI22_SensorySketching, Reed_CHI22_CommunicatingBodies, Reed_NIME22_Microphenomenology, Reed_PhD_ImaginingSensing, Reed_TEI23_BodyAsSound, Reed_CHI23_BodyLutherie, Reed_CHI23_VocalMetaphor, Reed_MSX_AAFVocalAccuracy
 ---
 
 <div class="row">
@@ -15,6 +15,8 @@ related_publications: Reed_NIME20_VocalsEMG, Reed_TEI21_sEMGPerformance, Reed_TE
     {% include figure.html path="/assets/img/proj-imagining/1-header-andrea.png" title="" class="img-fluid rounded" %}
     </div>
 </div>
+
+**2019 - 2023**
 
 My PhD at Queen Mary University of London (QMUL) was done in the [Augmented Instruments Lab (AIL)](http://instrumentslab.org/) with Prof. Andrew McPherson. The work culmuninated in my thesis, [Imagining & Sensing: Understanding and Extending the Vocalist-Voice Relationship Through Biosignal Feedback](https://www.courtneynreed.com/assets/pdf/Reed_PhD_ImaginingSensing.pdf).
 
@@ -72,7 +74,7 @@ activations through surface electromyography (sEMG).
     Implementing the VoxEMG into the Singing Knit with designs by Sophie Skach (top). The VoxEMG board can be affixed to textiles and use conductive thread inputs (left); the conductive thread traces to fabric electrodes are woven into the knit (centre), which stretches with the garment (right).
 </div>
 
-## main theory & methods
+## theory & methods
 
 * mixed-methods
 * electromyography (EMG) biofeedback
@@ -101,4 +103,4 @@ activations through surface electromyography (sEMG).
     The Singing Knit inside with conductive fabric electrode pads (top left) and outside with affixed VoxEMG boards for 8 channels of EMG data (top right). As modelled by me, the garment is able to stretch for flexible performance wear (bottom row).
 </div>
 
-## related publications
+## related publications:
