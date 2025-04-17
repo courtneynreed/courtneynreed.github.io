@@ -7,6 +7,14 @@
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
   {% include head.html %}
+  <style>
+  body {
+    background-image: url('{{ site.baseurl }}/assets/img/bg-light.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+</style>
   </head>
 
   <!-- Body -->
@@ -16,13 +24,15 @@
     {%- include header.html %}
 
     <!-- Content -->
-    <div class="container mt-5">
+    <div class="container mt-5" style="background-color:white;">
       {% if page.toc and page.toc.sidebar %}
         {% if page.toc.sidebar == "right" %}
         <div class="row">
           <!-- main content area -->
           <div class="col-sm-9">
+            <body bgcolor="white">
             {{ content }}
+          </body>
           </div>
           <!-- sidebar, which will move to the top on a small screen -->
           <div class="col-sm-3">

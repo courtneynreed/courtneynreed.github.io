@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Selected projects and collaborations, designs, and repositories. 
+description: Selected projects and collaborations, designs, and repositories.
 nav: true
 nav_order: 2
 display_categories: [research, designs]

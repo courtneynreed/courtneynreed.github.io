@@ -1,6 +1,6 @@
 ---
 layout: page
-title: haptic servos & symbols
+title: haptic servos
 description: self-contained vibrotactile rendering system for creating material experiences
 img: assets/img/proj_preview/hapticservo.jpg
 importance: 1

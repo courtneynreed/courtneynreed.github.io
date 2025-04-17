@@ -1,6 +1,6 @@
 ---
 layout: page
-title: voxemg<br>(v3.1)
+title: voxemg
 description: a PCB pre-amplifier for vocal sEMG signals, designed for the small laryngeal muscles
 img: assets/img/proj_preview/voxemg.jpg
 importance: 1
