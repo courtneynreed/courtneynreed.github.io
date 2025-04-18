@@ -33,7 +33,7 @@ The nomination is made by the PhD advisor (thank you, Andrew!) with the support 
 
 The award citation for the thesis was very thoughtful in describing my thesis's contributions:
 
->> Dr. Courtney Reed's dissertation is a joy to read and fascinating to contemplate. It is a unique and interdisciplinary exploration of embodiment, sensorimotor imagery, and the mediating role of technology. It combines cognitive science, design theory, and music pedagogy with technical and artistic practices grounded in reflexive experience to contribute a nuanced, engaged, situated, and mature examination of biofeedback's influence on bodily awareness and subjective experience in vocal practice. The committee appreciated the distinctive topic as well as the breadth of its ambitions, the sophistication of its analysis, and its captivating prose.
+> "Dr. Courtney Reed's dissertation is a joy to read and fascinating to contemplate. It is a unique and interdisciplinary exploration of embodiment, sensorimotor imagery, and the mediating role of technology. It combines cognitive science, design theory, and music pedagogy with technical and artistic practices grounded in reflexive experience to contribute a nuanced, engaged, situated, and mature examination of biofeedback's influence on bodily awareness and subjective experience in vocal practice. The committee appreciated the distinctive topic as well as the breadth of its ambitions, the sophistication of its analysis, and its captivating prose."
 
 
 <!-- To add a table of contents to a post as a sidebar, simply add
