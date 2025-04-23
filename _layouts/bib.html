@@ -139,24 +139,44 @@
         <!-- Non-functional -->
         <div class="row">
           {%- if entry.what %}
-            {%- if entry.what == "Proceedings" %}       
-            &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-primary p-2 text-left" disabled>{{entry.what}}</button>
+            {%- if entry.what == "Paper Proceedings" %}       
+            &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-primary p-2" disabled>{{entry.what}}</button>
             {%- endif %}
-            {%- if entry.what == "Extended Abstract" %}
+            {%- if entry.what == "Pictorial Proceedings" %}       
+            &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-primary p-2" disabled>{{entry.what}}</button>
+            {%- endif %}
+            <!-- extended abstract types -->
+            {%- if entry.what == "Extended Proceedings" %}
             &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-success p-2" disabled>{{entry.what}}</button>
             {%- endif %}
-            {%- if entry.what == "Article" %}
+            {%- if entry.what == "Demo Abstract" %}
+            &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-success p-2" disabled>{{entry.what}}</button>
+            {%- endif %}
+            {%- if entry.what == "Art/Performance Abstract" %}
+            &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-success p-2" disabled>{{entry.what}}</button>
+            {%- endif %}
+            {%- if entry.what == "Poster Abstract" %}
+            &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-success p-2" disabled>{{entry.what}}</button>
+            {%- endif %}
+            {%- if entry.what == "Position Paper" %}
+            &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-success p-2" disabled>{{entry.what}}</button>
+            {%- endif %}
+            <!-- articles -->
+            {%- if entry.what == "Journal Article" %}
             &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-danger p-2" disabled>{{entry.what}}</button>
             {%- endif %}
-            {%- if entry.what == "Workshop" %}
+            <!-- workshops -->
+            {%- if entry.what == "Workshop Proposal" %}
             &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-light p-2" disabled>{{entry.what}}</button>
             {%- endif %}
+            <!-- thesis types -->
             {%- if entry.what == "MSc Thesis" %}
             &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-info p-2" disabled>{{entry.what}}</button>
             {%- endif %}
             {%- if entry.what == "PhD Thesis" %}
             &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-info p-2" disabled>{{entry.what}}</button>
             {%- endif %}
+            <!-- books -->
             {%- if entry.what == "Book Chapter" %}
             &ensp;<button type="button" class="btn btn-sm z-depth-0 btn-info p-2" disabled>{{entry.what}}</button>
             {%- endif %}
