@@ -3,7 +3,7 @@ layout: post
 title: nime & chime 2024 🌷
 date: 2024-12-03 00:50:00-0400
 description: DMI research shenanigans in Utrecht and Milton Keynes 
-tags: conferences, papers
+tags: conferences papers
 categories: events
 giscus_comments: false
 related_posts: false
