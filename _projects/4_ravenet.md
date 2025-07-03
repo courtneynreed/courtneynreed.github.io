@@ -20,8 +20,7 @@ related_publications: Freire_TEI24_RaveNETWiP, Freire_TEI24_RaveNETPerf, Freire_
 
 This ongoing work, led by Dr. Paul Strohmeier and the [Sensorimotor Interaction Group (senSInt)](https://sensint.mpi-inf.mpg.de/index.html) at the [Max Planck Institute for Informatics (MPI-INF)](https://www.mpi-inf.mpg.de/home), is designing sensor-actuator networks between musicians in performance. The project has developed a series of instruments that use biosignal interaction to manipulate instruments - both own and others' - to investigate themes of control, presence, and the blending of spaces in augmented performance.
 
-**Collaborators:** Paul Strohmeier (senSInt, MPI-INF), Valentin Martinez-Missir (senSInt, MPI-INF), Rachel Freire (CiTIUS,
-University of Santiago de Compostela & MPI-INF)
+**Collaborators:** Paul Strohmeier (senSInt, MPI-INF), Valentin Martinez-Missir (senSInt, MPI-INF), Rachel Freire (senSInt, MPI-INF and [Rachel Freire Studio](https://www.rachelfreire.com/))
 
 ## abstract
 
