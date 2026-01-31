@@ -70,7 +70,7 @@ My solo project is called **agouti**, I compose with vocal textures and occasion
 I also perform with my electronic improv group [Hyphae](https://www.yfyfyf.xyz/index.html), formed at the MPI, we perform regularly in Saarbrücken and are branching out to other cities in the EU. <br>
 I also sing regularly with the London Philharmonic Choir. 🎶
 
-I love animals and have many pets, including a large group of fancy rats and two cats. 🐭🐱<br>
+I love animals and have many pets, including a large group of fancy rats and my cat, Marble. 🐭🐱<br>
 I am also the caretaker for many many *many* houseplants. 🌿
 
 <h2>phd thesis</h2>

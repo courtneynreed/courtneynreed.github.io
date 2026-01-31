@@ -17,7 +17,7 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'therubyracer'
+    # gem 'therubyracer'
     gem 'unicode_utils'
     gem 'webrick'
     gem 'logger'
@@ -25,6 +25,8 @@ group :jekyll_plugins do
     gem 'ostruct'
     gem 'base64'
     gem 'observer'
+    # gem 'libv8', '~> 3.11.8.3'
+    gem 'fiddle'
 end
 group :other_plugins do
     gem 'feedjira'
