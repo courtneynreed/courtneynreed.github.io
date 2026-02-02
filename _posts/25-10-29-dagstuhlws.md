@@ -42,18 +42,18 @@ In all of this, I also had the amazing opportunity for some impromptu jamming wi
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dagstuhl-25/jam-2.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dagstuhl-25/jam-2.PNG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dagstuhl-25/jam-4.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dagstuhl-25/jam-4.PNG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dagstuhl-25/jam-3.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dagstuhl-25/jam-3.PNG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row mt-3 mt-md-0">
     <div class="col-sm mt-3 mt-md-0">
-     {% include figure.html path="assets/img/dagstuhl-25/jam-1.png" class="img-fluid rounded z-depth-1" %}
+     {% include figure.html path="assets/img/dagstuhl-25/jam-1.PNG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -62,7 +62,7 @@ In all of this, I also had the amazing opportunity for some impromptu jamming wi
 
 <div class="row mt-3 mt-md-0">
     <div class="col-sm mt-3 mt-md-0">
-     {% include figure.html path="assets/img/dagstuhl-25/jam-5.jpg" class="img-fluid rounded z-depth-1" %}
+     {% include figure.html path="assets/img/dagstuhl-25/jam-5.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -76,24 +76,24 @@ We really enjoyed the beautiful autumn weather in Saarland during this trip. I'm
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dagstuhl-25/d-1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dagstuhl-25/d-1.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dagstuhl-25/d-2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dagstuhl-25/d-2.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dagstuhl-25/d-3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dagstuhl-25/d-3.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dagstuhl-25/d-4.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dagstuhl-25/d-4.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dagstuhl-25/d-5.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dagstuhl-25/d-5.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dagstuhl-25/d-6.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dagstuhl-25/d-6.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
