@@ -41,23 +41,19 @@ layout: default
             {{ content }}
           </div>
 
-          <br>
-          <div style="text-align: center;">
-            <img src="/assets/img/divider.png" width="250">
-          </div>
-
           <!-- News -->
-          {% if page.news and site.announcements.enabled -%}
+<!--           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">latest news</a></h2>
               <div style="width:default;height:150px;overflow:scroll;padding:10px;">
                 {%- include news.html limit=true %}
               </div>
-                {%- endif %}
+                {%- endif %} -->
 
           <br>
           <div style="text-align: center;">
             <img src="/assets/img/divider.png" width="250">
           </div>
+          <br>
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}

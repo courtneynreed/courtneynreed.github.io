@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Lecturer in Digital Technologies at <a href='https://www.lborolondon.ac.uk/'>Loughborough University London</a>.
+subtitle: Lecturer in Digital Technologies and Creative Futures at <a href='https://www.lborolondon.ac.uk/'>Loughborough University London</a>.
 
 profile:
   align: right
@@ -31,6 +31,7 @@ As a singer, I use my experience of my own voice and performance to motivate my 
 
 My work has centred around the interaction and relationship vocalists have with their voices --- both body and instrument --- and how technology mediates, informs, and even disrupts this connection.
 
+I also lead the <a href="https://thechaoslab.org/">CHAOS Lab</a> at Loughborough London: <a href="https://thechaoslab.org/"><img src="/assets/img/chaos-svg.svg" alt="CHAOS Lab Logo" width="200" style="vertical-align:bottom;margin:0px 5px"></a>
 
 <!-- Examples of this work in topics including human-centred design, biosignal feedback, autoethnography, and experience querying with micro-phenomenology. -->
 
